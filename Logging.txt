@@ -1,0 +1,8 @@
+Oct 25, 2020 9:31:33 PM UseLogger doSomeThingAndLog
+SEVERE: Info Log
+Oct 25, 2020 9:31:33 PM UseLogger doSomeThingAndLog
+SEVERE: Info Log
+Oct 25, 2020 9:31:33 PM UseLogger doSomeThingAndLog
+WARNING: Info Log
+Oct 25, 2020 9:31:33 PM UseLogger doSomeThingAndLog
+INFO: Info Log
